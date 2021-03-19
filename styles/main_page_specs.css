@@ -1,0 +1,208 @@
+body {
+    font-family: sans-serif;
+    background-image: url('../images/main_background_image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+h1 {
+    font-size: 32px;
+    font-family: 'Snell Roundhand', cursive;
+    color: black; 
+    text-align: center;
+}
+
+.page-description {
+    text-align: center;
+    border: 1px solid #000;
+    margin: 5px;
+    padding: 30px;
+    color: black;
+}
+
+.country_store{
+    text-align: center;
+    border: 2px solid #000;
+    background-color: rgb(216, 124, 151);
+    margin-top: 50px;
+    margin-left: 625px;
+    margin-right: 625px;
+    padding: 20px;
+    color: black;
+}
+
+.country-store-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+    border: 5px solid rgb(216, 124, 151);
+}
+
+.Four_Seas{
+    text-align: center;
+    border: 2px solid #000;
+    background-color: rgb(216, 124, 151);
+    margin-top: 50px;
+    margin-left: 625px;
+    margin-right: 625px;
+    padding: 20px;
+    color: black;
+}
+
+.Four_Seas_pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 15%;
+    border: 5px solid rgb(216, 124, 151);
+}
+
+.distance1{
+    text-align: center;
+    color: white;
+}
+
+.distance2{
+    text-align: center;
+    color: white;
+}
+.Craigville_Beach{
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(216, 124, 151);
+    margin-top: 50px;
+    margin-left: 625px;
+    margin-right: 625px;
+    padding: 20px;
+    color: black;
+}
+
+.Craigville_Beach_Pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 15%;
+    border: 5px solid rgb(216, 124, 151);
+}
+
+.Centerville_Playground{
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(216, 124, 151);
+    margin-top: 50px;
+    margin-left: 625px;
+    margin-right: 625px;
+    padding: 20px;
+    color: black;
+}
+
+.Centerville_Playground_Pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 15%;
+    border: 5px solid rgb(216, 124, 151);
+}
+
+.Rate_Page_Description{
+    text-align: center;
+    font-size: larger;
+    color: black;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.prices{
+    text-align: center;
+    font-size: x-large;
+    background-color: rgba(128, 128, 128, 0.527);
+    margin-left: 375px;
+    margin-right: 400px;
+    padding: 10px;
+}
+
+.tab{
+    display: inline-block; 
+    margin-left: 350px;
+}
+
+div .pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid rgb(216, 124, 151);
+}
+
+
+.main {
+    /*padding-left: 30px;*/
+    min-width: 75%;
+}
+
+.nav{
+    position: -webkit-sticky;  
+    position: sticky;
+    top: 0;
+    background-color: rgba(253, 178, 213, 0.623);
+}
+
+.nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*background-color: #dddddd;*/
+    width: 100%;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+
+.nav ul li{
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+.nav ul li:last-child{
+    border-right: none;
+}
+
+.nav ul li a{
+    display: block;
+    /*padding: 8px;*/
+    /*background-color: #dddddd;*/
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.nav ul li a:hover:not(.active){
+    background-color: rgb(216, 124, 151);
+}
+
+.nav ul li .active{
+    background-color: rgb(216, 124, 151);
+}
+
+div h2{
+    font-family: 'Snell Roundhand', cursive;
+    font-size: 32px;
+    color: black; 
+    text-align: center;
+}
+
+.Unordered_List_1{
+    background-color: rgba(128, 128, 128, 0.637);
+}
+
+.email_input{
+    text-align: center;
+}
