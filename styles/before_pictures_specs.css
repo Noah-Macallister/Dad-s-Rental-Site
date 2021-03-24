@@ -19,7 +19,8 @@ h1 {
     position: -webkit-sticky;  
     position: sticky;
     top: 0;
-    background-color: rgba(253, 178, 213, 0.623);
+    /*background-color: rgba(253, 178, 213, 0.623);*/
+    background-color: rgb(143,94,105);
 }
 
 .nav ul{
