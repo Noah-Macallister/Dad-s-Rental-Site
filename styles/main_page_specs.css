@@ -152,7 +152,8 @@ div .pic{
     position: -webkit-sticky;  
     position: sticky;
     top: 0;
-    background-color: rgba(253, 178, 213, 0.623);
+   /* background-color: rgba(253, 178, 213, 0.623);*/
+    background-color: rgb(166,96,103);
 }
 
 .nav ul{
@@ -193,7 +194,7 @@ div .pic{
 }
 
 div h2{
-    font-family: 'Snell Roundhand', cursive;
+    font-family: 'Apple Chancery', cursive;
     font-size: 32px;
     color: black; 
     text-align: center;
