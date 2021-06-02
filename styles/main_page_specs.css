@@ -67,11 +67,16 @@ h1 {
     width: 25%;
 }
 .HousePicsSmall{
-   
-   
+    text-align: center;
+    border: 2px solid #000;
+    background-color: rgb(216, 124, 151);
+    margin-top: 50px;
+    margin-left: 625px;
+    margin-right: 625px;
+    padding: 20px;
     color: black;
-    height: 25%;
-    width: 25%;
+    height: 5%;
+    width: 5%;
 }
 
 .country-store-pic{
