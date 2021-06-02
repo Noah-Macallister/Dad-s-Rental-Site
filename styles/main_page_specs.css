@@ -22,7 +22,16 @@ h1 {
     padding: 30px;
     color: black;
 }
-
+.heading{
+    text-align: center;
+    border: 2px solid #000;
+    background-color: rgb(216, 124, 151);
+    margin-top: 50px;
+    margin-left: 625px;
+    margin-right: 625px;
+    padding: 20px;
+    color: black;
+}
 .country_store{
     text-align: center;
     border: 2px solid #000;
