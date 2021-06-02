@@ -74,6 +74,10 @@ h1 {
     height: 5%;
     width: 5%;
 }
+.Description{
+    text-align: Left;
+    color: Black;
+}
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
