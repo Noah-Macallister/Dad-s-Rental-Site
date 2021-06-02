@@ -66,7 +66,13 @@ h1 {
     height: 25%;
     width: 25%;
 }
-
+.HousePicsSmall{
+   
+   
+    color: black;
+    height: 25%;
+    width: 25%;
+}
 
 .country-store-pic{
     display: block;
