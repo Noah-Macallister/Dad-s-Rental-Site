@@ -23,7 +23,7 @@ h1 {
     color: black;
 }
 .heading{
-    text-align: center;
+    text-align: left;
     border: 2px solid #000;
     background-color: rgb(216, 124, 151);
     margin-top: 50px;
